@@ -6,10 +6,10 @@ The open tool kit is a jQuery library which simply integrates a toolkit to be ea
 
 
 <p>
-<script type="text/javascript"><br/>
+&lt;script type="text/javascript"&gt;<br/>
 $(function(){<br/>
 $('#tk').toolkit("horizontal");<br/>
 $('#tk1').toolkit("verticle");<br/>
 }); <br/>       
-</script>
+&lt;/script&gt;
 </p>
