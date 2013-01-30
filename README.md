@@ -13,3 +13,7 @@ $('#tk1').toolkit("verticle");<br/>
 }); <br/>       
 &lt;/script&gt;
 </p>
+
+<p>The herticle layout displays verticly and the horizontal layout displays horizontally.</p>
+
+<p>The tool kit will be inserted inside the "div" or dom element you select.</p>
