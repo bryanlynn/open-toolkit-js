@@ -1,4 +1,4 @@
-Open Toolkit JS
+open-toolkit-js
 
 The open tool kit is a jQuery library which simply integrates a toolkit to be easier to integrate into a clients site.
 
