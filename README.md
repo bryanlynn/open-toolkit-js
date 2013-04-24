@@ -7,12 +7,14 @@ The open tool kit is a jQuery library which simply integrates a toolkit to be ea
  
 
 <p>
+'''
 &lt;script type="text/javascript"&gt;<br/>
 $(function(){<br/>
 $('#tk').toolkit("horizontal");<br/>
 $('#tk1').toolkit("verticle");<br/>
 }); <br/>       
 &lt;/script&gt;
+'''
 </p>
 
 <p>The verticle layout displays vertically and the horizontal layout displays horizontally.</p>
